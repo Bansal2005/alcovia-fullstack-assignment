@@ -1,0 +1,594 @@
+{
+  "focusSessions": [
+    {
+      "id": "31fb5051-8a30-4f41-9b9a-cfd10d968465",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085878373
+    },
+    {
+      "id": "2c916879-c425-41c8-a54f-410c916d58b2",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085916160
+    },
+    {
+      "id": "b0fffa39-536a-4805-a3f0-93ad9a785556",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085919111
+    },
+    {
+      "id": "54219673-d608-475a-9ae7-0ac430a47b0c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781085960659
+    },
+    {
+      "id": "36b28961-2ca8-4fa3-a0cd-e5fe0201b047",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085968871
+    },
+    {
+      "id": "4d63b037-22c6-49f0-bc84-e9d4fe69829f",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086386482
+    },
+    {
+      "id": "682a00c8-96ad-4c28-ad67-d52c98e09f2c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086666935
+    },
+    {
+      "id": "10a5b262-b812-4d6c-8e07-2bb7a8eed431",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086673812
+    },
+    {
+      "id": "74b188bd-6feb-4a6f-82d5-a96b2570f677",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086675519
+    },
+    {
+      "id": "3df0aa31-3a34-45f9-a6d2-ae754b5ca080",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086677269
+    },
+    {
+      "id": "a1159ddc-d89f-474f-aa0c-499862548a1f",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086681575
+    },
+    {
+      "id": "2273b134-7a8e-4e1b-a3c2-bf25b913c944",
+      "status": "failed",
+      "reason": "app_switch",
+      "synced": false,
+      "updatedAt": 1781086713505
+    },
+    {
+      "id": "16d9f1cc-e073-4baa-9e2f-b156e8ef43d4",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086731794
+    },
+    {
+      "id": "ad067317-02d9-4839-9f43-41d0f739276d",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086752677
+    },
+    {
+      "id": "860bdc43-b3bb-42b1-aa34-cf02805f1f09",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781089312217
+    },
+    {
+      "id": "31fb5051-8a30-4f41-9b9a-cfd10d968465",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085878373
+    },
+    {
+      "id": "2c916879-c425-41c8-a54f-410c916d58b2",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085916160
+    },
+    {
+      "id": "b0fffa39-536a-4805-a3f0-93ad9a785556",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085919111
+    },
+    {
+      "id": "54219673-d608-475a-9ae7-0ac430a47b0c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781085960659
+    },
+    {
+      "id": "36b28961-2ca8-4fa3-a0cd-e5fe0201b047",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085968871
+    },
+    {
+      "id": "4d63b037-22c6-49f0-bc84-e9d4fe69829f",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086386482
+    },
+    {
+      "id": "682a00c8-96ad-4c28-ad67-d52c98e09f2c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086666935
+    },
+    {
+      "id": "10a5b262-b812-4d6c-8e07-2bb7a8eed431",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086673812
+    },
+    {
+      "id": "74b188bd-6feb-4a6f-82d5-a96b2570f677",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086675519
+    },
+    {
+      "id": "3df0aa31-3a34-45f9-a6d2-ae754b5ca080",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086677269
+    },
+    {
+      "id": "a1159ddc-d89f-474f-aa0c-499862548a1f",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086681575
+    },
+    {
+      "id": "2273b134-7a8e-4e1b-a3c2-bf25b913c944",
+      "status": "failed",
+      "reason": "app_switch",
+      "synced": false,
+      "updatedAt": 1781086713505
+    },
+    {
+      "id": "16d9f1cc-e073-4baa-9e2f-b156e8ef43d4",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086731794
+    },
+    {
+      "id": "ad067317-02d9-4839-9f43-41d0f739276d",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086752677
+    },
+    {
+      "id": "860bdc43-b3bb-42b1-aa34-cf02805f1f09",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781089312217
+    },
+    {
+      "id": "31fb5051-8a30-4f41-9b9a-cfd10d968465",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085878373
+    },
+    {
+      "id": "2c916879-c425-41c8-a54f-410c916d58b2",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085916160
+    },
+    {
+      "id": "b0fffa39-536a-4805-a3f0-93ad9a785556",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085919111
+    },
+    {
+      "id": "54219673-d608-475a-9ae7-0ac430a47b0c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781085960659
+    },
+    {
+      "id": "36b28961-2ca8-4fa3-a0cd-e5fe0201b047",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085968871
+    },
+    {
+      "id": "4d63b037-22c6-49f0-bc84-e9d4fe69829f",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086386482
+    },
+    {
+      "id": "682a00c8-96ad-4c28-ad67-d52c98e09f2c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086666935
+    },
+    {
+      "id": "10a5b262-b812-4d6c-8e07-2bb7a8eed431",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086673812
+    },
+    {
+      "id": "74b188bd-6feb-4a6f-82d5-a96b2570f677",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086675519
+    },
+    {
+      "id": "3df0aa31-3a34-45f9-a6d2-ae754b5ca080",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086677269
+    },
+    {
+      "id": "a1159ddc-d89f-474f-aa0c-499862548a1f",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086681575
+    },
+    {
+      "id": "2273b134-7a8e-4e1b-a3c2-bf25b913c944",
+      "status": "failed",
+      "reason": "app_switch",
+      "synced": false,
+      "updatedAt": 1781086713505
+    },
+    {
+      "id": "16d9f1cc-e073-4baa-9e2f-b156e8ef43d4",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086731794
+    },
+    {
+      "id": "ad067317-02d9-4839-9f43-41d0f739276d",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086752677
+    },
+    {
+      "id": "860bdc43-b3bb-42b1-aa34-cf02805f1f09",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781089312217
+    },
+    {
+      "id": "31fb5051-8a30-4f41-9b9a-cfd10d968465",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085878373
+    },
+    {
+      "id": "2c916879-c425-41c8-a54f-410c916d58b2",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085916160
+    },
+    {
+      "id": "b0fffa39-536a-4805-a3f0-93ad9a785556",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085919111
+    },
+    {
+      "id": "54219673-d608-475a-9ae7-0ac430a47b0c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781085960659
+    },
+    {
+      "id": "36b28961-2ca8-4fa3-a0cd-e5fe0201b047",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781085968871
+    },
+    {
+      "id": "4d63b037-22c6-49f0-bc84-e9d4fe69829f",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086386482
+    },
+    {
+      "id": "682a00c8-96ad-4c28-ad67-d52c98e09f2c",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781086666935
+    },
+    {
+      "id": "10a5b262-b812-4d6c-8e07-2bb7a8eed431",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086673812
+    },
+    {
+      "id": "74b188bd-6feb-4a6f-82d5-a96b2570f677",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086675519
+    },
+    {
+      "id": "3df0aa31-3a34-45f9-a6d2-ae754b5ca080",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086677269
+    },
+    {
+      "id": "a1159ddc-d89f-474f-aa0c-499862548a1f",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086681575
+    },
+    {
+      "id": "2273b134-7a8e-4e1b-a3c2-bf25b913c944",
+      "status": "failed",
+      "reason": "app_switch",
+      "synced": false,
+      "updatedAt": 1781086713505
+    },
+    {
+      "id": "16d9f1cc-e073-4baa-9e2f-b156e8ef43d4",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086731794
+    },
+    {
+      "id": "ad067317-02d9-4839-9f43-41d0f739276d",
+      "status": "failed",
+      "reason": "gave_up",
+      "synced": false,
+      "updatedAt": 1781086752677
+    },
+    {
+      "id": "860bdc43-b3bb-42b1-aa34-cf02805f1f09",
+      "status": "completed",
+      "coins": 50,
+      "streak": 1,
+      "synced": false,
+      "updatedAt": 1781089312217
+    }
+  ],
+  "syllabus": [
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "Chapter 1",
+          "tasks": [
+            {
+              "id": 1,
+              "name": "Task 1",
+              "status": "Done"
+            },
+            {
+              "id": 2,
+              "name": "Task 2",
+              "status": "Done"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chapter 2",
+          "tasks": [
+            {
+              "id": 3,
+              "name": "Task 3",
+              "status": "Done"
+            },
+            {
+              "id": 4,
+              "name": "Task 4",
+              "status": "Not Started"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "Chapter 1",
+          "tasks": [
+            {
+              "id": 1,
+              "name": "Task 1",
+              "status": "Done"
+            },
+            {
+              "id": 2,
+              "name": "Task 2",
+              "status": "Done"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chapter 2",
+          "tasks": [
+            {
+              "id": 3,
+              "name": "Task 3",
+              "status": "Done"
+            },
+            {
+              "id": 4,
+              "name": "Task 4",
+              "status": "Not Started"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "Chapter 1",
+          "tasks": [
+            {
+              "id": 1,
+              "name": "Task 1",
+              "status": "Done"
+            },
+            {
+              "id": 2,
+              "name": "Task 2",
+              "status": "Done"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chapter 2",
+          "tasks": [
+            {
+              "id": 3,
+              "name": "Task 3",
+              "status": "Done"
+            },
+            {
+              "id": 4,
+              "name": "Task 4",
+              "status": "Not Started"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "chapters": [
+        {
+          "id": 1,
+          "name": "Chapter 1",
+          "tasks": [
+            {
+              "id": 1,
+              "name": "Task 1",
+              "status": "Done"
+            },
+            {
+              "id": 2,
+              "name": "Task 2",
+              "status": "Done"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chapter 2",
+          "tasks": [
+            {
+              "id": 3,
+              "name": "Task 3",
+              "status": "Done"
+            },
+            {
+              "id": 4,
+              "name": "Task 4",
+              "status": "Not Started"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
