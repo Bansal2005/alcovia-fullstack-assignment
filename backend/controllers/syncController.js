@@ -1,12 +1,17 @@
 const fs = require("fs");
 const path = require("path");
 
+const triggerN8n =
+require(
+    "../services/n8nService"
+);
+
 const dbPath = path.join(
     __dirname,
     "../data/db.json"
 );
 
-const syncData = (req, res) => {
+const syncData = async (req, res) => {
 
     const incoming = req.body;
 
@@ -59,13 +64,28 @@ const syncData = (req, res) => {
 
     );
 
-    res.json({
+    await triggerN8n({
 
-        success: true,
+    event: "sync",
 
-        message: "Sync completed"
+    focusSessions:
+    incoming.focusSessions,
 
-    });
+    syllabus:
+    incoming.syllabus,
+
+    timestamp:
+    Date.now()
+
+});
+
+res.json({
+
+    success: true,
+
+    message: "Sync completed"
+
+});
 
 };
 
